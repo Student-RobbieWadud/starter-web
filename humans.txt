@@ -10,6 +10,7 @@
 # THANKS
 
     This man for teaching me git
+    Please don't NOT finish this by tonight
 
 # TECHNOLOGY COLOPHON
 

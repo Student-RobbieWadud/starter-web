@@ -9,7 +9,7 @@
 
 # THANKS
 
-    <name>
+    This man for teaching me git
 
 # TECHNOLOGY COLOPHON
 
